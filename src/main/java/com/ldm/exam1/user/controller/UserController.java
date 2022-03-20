@@ -1,4 +1,4 @@
-package com.ldm.exam1;
+package com.ldm.exam1.user.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
