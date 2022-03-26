@@ -10,12 +10,12 @@ public class UserController {
     @RequestMapping("/users")
     @ResponseBody
     public String users(){
-        return "유저가 여러명";
+        return "유저 여러명";
     }
 
     @RequestMapping("/user")
     @ResponseBody
     public String user(){
-        return "유저가 한명";
+        return "유저 한명";
     }
 }
